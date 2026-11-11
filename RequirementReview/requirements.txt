@@ -1,0 +1,8 @@
+﻿langchain
+langchain-ollama
+langchain-community
+langgraph
+pypdf
+pydantic
+streamlit
+reportlab
